@@ -1,0 +1,42 @@
+# Site settings
+title: Andrew Minard
+description: 'analyst // musician // mixologist'
+url: 'https://andrewminard.com'
+baseurl: '/'
+# google_analytics: 'UA-30750445-2'
+disqus_shortname: '@andrew_minard'
+
+author:
+  name: 'Andrew Minard'
+  email: andrew@andrewminard.com
+  twitter_username: minaardvark
+  #facebook_username: 
+  spotify_username: aminard
+  github_username: aminard
+  linkedin_username: andrewminard
+  instagram_username: minaardvark
+
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
