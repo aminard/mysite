@@ -1,10 +1,10 @@
 # Site settings
 title: Andrew Minard
-description: 'analyst // musician // mixologist'
+description: 'analyst // trader // musician // mixologist'
 url: 'https://andrewminard.com'
 baseurl: '/'
-# google_analytics: 'UA-30750445-2'
-disqus_shortname: '@andrew_minard'
+#google_analytics: 'UA-30750445-2'
+disqus_shortname: 'andrew_minard'
 
 author:
   name: 'Andrew Minard'
