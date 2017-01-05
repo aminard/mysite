@@ -8,7 +8,7 @@ disqus_shortname: 'andrew_minard'
 
 author:
   name: 'Andrew Minard'
-  email: andrew@andrewminard.com
+  #email: andrew@andrewminard.com
   twitter_username: minaardvark
   #facebook_username: 
   spotify_username: aminard
@@ -39,4 +39,4 @@ kramdown:
   hard_wrap: false
 
 gems: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 's3_website.yml', 'deploy.sh']

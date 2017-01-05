@@ -58,4 +58,5 @@ Getting more reviews can be a good thing for average rating — especially for p
 
 _This research was conducted by Andrew Minard, Lead Data Analyst, and Miles Carrington, Data Analyst, of the Bazaarvoice Social Analytics department_
 
+
 <a href="http://blog.bazaarvoice.com/2016/10/13/many-reviews-take-achieve-meaningful-average-rating/" target="_blank" title="Bazaarvoice Blog">Original publication on the Bazaarvoice Blog</a>
