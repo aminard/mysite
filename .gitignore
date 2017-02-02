@@ -1,8 +1,15 @@
 _site
+
 .sass-cache
 .jekyll-metadata
+
 *.sublime-project
 *.sublime-workspace
+
 .DS_Store
+
 s3_website.yml
 deploy.sh
+
+post_example.markdown
+google87*.html
