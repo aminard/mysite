@@ -3,7 +3,7 @@ layout: post
 title: "What travelers really want:  Insights from The Conversation Index"
 date: 2014-06-17 08:00:00 -0600
 categories: [data analytics]
-tags: [data analytics ratings reviews statistics]
+tags: [data analytics, ratings and reviews]
 ---
 As technology fuels a global interconnectedness throughout society, it’s no surprise that the **internet** and **word of mouth** are considered the most important sources of information today.  This is particularly true in the travel industry, where people are either planning imminent travel or just seeking inspiration for their next journey.
 

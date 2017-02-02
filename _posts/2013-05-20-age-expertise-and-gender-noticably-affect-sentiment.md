@@ -3,7 +3,7 @@ layout: post
 title: "Age, expertise, and gender noticeably affect sentiment"
 date: 2013-05-20 08:00:00 -0600
 categories: [data analytics]
-tags: [data analytics ratings reviews statistics]
+tags: [data analytics, ratings and reviews]
 ---
 If you’ve ever been chided by your grandfather’s tiresome rant for not finishing your supper, using the computer too much, or listening to rock ‘n roll, you may have internalized the stereotype that the elderly are grumpy and cantankerous. Despite our subjective experiences, psychological research exists that counters this, and instead proposes that <a href="http://www.economist.com/node/17722567" target="_blank">positive emotions increase with age</a>.
 

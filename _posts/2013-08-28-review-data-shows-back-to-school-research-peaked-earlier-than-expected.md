@@ -3,7 +3,7 @@ layout: post
 title: "Review data shows back-to-school research peaked earlier than expected"
 date: 2013-08-28 08:00:00 -0600
 categories: [data analytics]
-tags: [data analytics ratings reviews statistics]
+tags: [data analytics, ratings and reviews]
 ---
 With the first day of school already upon us, making a good impression is top priority no matter who you are. Students carefully pick out their snazziest outfits, while internet retailers serve up their most influential content – customer opinions.
 

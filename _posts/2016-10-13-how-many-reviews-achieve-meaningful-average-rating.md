@@ -3,7 +3,7 @@ layout: post
 title: "How many reviews does it take to achieve a meaningful average rating?"
 date: 2016-10-13 08:00:00 -0600
 categories: [data analytics]
-tags: [data analytics ratings reviews statistics]
+tags: [data analytics, ratings and reviews]
 ---
 _What is the value of consumer-generated content? How do shoppers behave on different devices? These are the types of questions the Analytics team strive to answer by doing what we do best – digging through troves of data. Lately, we’ve been thinking about the relationship between two of the most basic metrics: **average rating** and the **number of reviews** a product has. Let’s drill down a little deeper and demonstrate how to use this available data to gain a more complete perspective on consumer sentiment._
 
