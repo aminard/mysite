@@ -5,6 +5,9 @@ date: 2013-10-29 08:00:00 -0600
 categories: [data analytics]
 tags: [data analytics, ratings and reviews]
 ---
+
+<a href="http://www.mediapost.com/publications/article/211561/back-to-school-shopping-season-offers-a-lesson-for.html" target="_blank" title="Media Post">Originally published on MediaPost.com</a>
+
 Next to the winter holidays, the back-to-school season is the second-biggest selling period of the year for U.S. retailers. However, after a disappointing back-to-school shopping season, forecasters are already predicting a weak holiday shopping season
 
 With Black Friday and Cyber Monday -- the start of the holiday season and two of the busiest shopping days of the year -- fast approaching, now is the time to look at what the back-to-school season can teach us to help prepare for success through the winter holidays.
@@ -24,6 +27,4 @@ Turning again to the upcoming holiday shopping period, the lesson from the back-
 With only marginal sales gains expected this November and December, the 2013 holiday shopping season is shaping up to be ultra-competitive. The data shows that reviews from other consumers will play a major role in attracting holiday shoppers and helping them decide how to spend their gift-giving budget.
 
 To make the most out of the closing months of the year, put UGC at the center of your selling strategies -- perhaps even sooner than you think you should.
-
-<a href="http://www.mediapost.com/publications/article/211561/back-to-school-shopping-season-offers-a-lesson-for.html?print#ixzz2j7uwbh4N" target="_blank" title="Media Post">Original publication on the MediaPost.com</a>
 

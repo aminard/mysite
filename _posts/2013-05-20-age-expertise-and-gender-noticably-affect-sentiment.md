@@ -5,7 +5,9 @@ date: 2013-05-20 08:00:00 -0600
 categories: [data analytics]
 tags: [data analytics, ratings and reviews]
 ---
-If you’ve ever been chided by your grandfather’s tiresome rant for not finishing your supper, using the computer too much, or listening to rock ‘n roll, you may have internalized the stereotype that the elderly are grumpy and cantankerous. Despite our subjective experiences, psychological research exists that counters this, and instead proposes that <a href="http://www.economist.com/node/17722567" target="_blank">positive emotions increase with age</a>.
+<a href="http://blog.bazaarvoice.com/2013/05/20/age-expertise-and-gender-noticably-affect-sentiment/" target="_blank" title="Bazaarvoice Blog">Originally published on the Bazaarvoice Blog</a>
+
+If you’ve ever been chided by your grandfather for not finishing your supper, using the computer too much, or listening to rock ‘n roll, you may have internalized the stereotype that the elderly are grumpy and cantankerous. Despite our subjective experiences, psychological research exists that counters this, and instead proposes that <a href="http://www.economist.com/node/17722567" target="_blank">positive emotions increase with age</a>.
 
 ### Positive sentiment increases with age
 
@@ -47,4 +49,3 @@ We ran these reviews through a sentiment analysis engine to breakout the top the
 ![Word cloud of hardware review text](/images/AA6.jpg)
 At the end of the day, star ratings and demographics are just the surface. Break through and actively listen to the voice of your customer by asking relevant questions. Then, read between the lines with sentiment analysis to gain a deeper understanding.
 
-<a href="http://blog.bazaarvoice.com/2013/05/20/age-expertise-and-gender-noticably-affect-sentiment/" target="_blank" title="Bazaarvoice Blog">Original publication on the Bazaarvoice Blog</a>
