@@ -1,6 +1,6 @@
 # Site settings
 title: Andrew Minard
-description: 'analyst // trader // musician // mixologist'
+description: 'purveyor of data // product manager // active trader // dabbling musician'
 url: 'https://andrewminard.com'
 baseurl: '/'
 google_analytics: 'UA-30750445-2'
@@ -9,12 +9,12 @@ disqus_shortname: 'andrewminard'
 author:
   name: 'Andrew Minard'
   #email: andrew@andrewminard.com
-  twitter_username: minaardvark
   #facebook_username: 
   spotify_username: aminard
   github_username: aminard
   linkedin_username: andrewminard
   instagram_username: minaardvark
+  twitter_username: minaardvark
 
 defaults:
   -
