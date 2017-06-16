@@ -5,9 +5,6 @@ date: 2016-10-13 08:00:00 -0600
 categories: [data analytics]
 tags: [data analytics, ratings and reviews]
 ---
-
-<a href="http://blog.bazaarvoice.com/2016/10/13/many-reviews-take-achieve-meaningful-average-rating/" target="_blank" title="Bazaarvoice Blog">Originally published on the Bazaarvoice Blog</a>
-
 _What is the value of consumer-generated content? How do shoppers behave on different devices? These are the types of questions the Analytics team strive to answer by doing what we do best – digging through troves of data. Lately, we’ve been thinking about the relationship between two of the most basic metrics: **average rating** and the **number of reviews** a product has. Let’s drill down a little deeper and demonstrate how to use this available data to gain a more complete perspective on consumer sentiment._
 
 ### The Stabilization Threshold
@@ -61,3 +58,4 @@ Getting more reviews can be a good thing for average rating — especially for p
 
 _This research was conducted by Andrew Minard, Lead Data Analyst, and Miles Carrington, Data Analyst, of the Bazaarvoice Social Analytics department_
 
+<a href="http://blog.bazaarvoice.com/2016/10/13/many-reviews-take-achieve-meaningful-average-rating/" target="_blank" title="Bazaarvoice Blog">Originally published on the Bazaarvoice Blog</a>

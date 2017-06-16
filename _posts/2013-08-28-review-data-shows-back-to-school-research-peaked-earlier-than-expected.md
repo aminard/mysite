@@ -5,7 +5,6 @@ date: 2013-08-28 08:00:00 -0600
 categories: [data analytics]
 tags: [data analytics, ratings and reviews]
 ---
-<a href="http://blog.bazaarvoice.com/2013/08/28/review-data-shows-back-to-school-research-peaked-earlier-than-expected/" target="_blank" title="Bazaarvoice Blog">Originally published on the Bazaarvoice Blog</a>
 
 With the first day of school already upon us, making a good impression is top priority no matter who you are. Students carefully pick out their snazziest outfits, while internet retailers serve up their most influential content – customer opinions.
 
@@ -33,3 +32,4 @@ With nearly four in ten (37%) people saying they would <a href="http://adage.com
 
 As one important shopping season wanes, another begins; Black Friday and the start of the holiday season is fast approaching. Learn from the back-to-school data to prepare for success throughout the close of the year, and put UGC at the center of your selling strategies — perhaps even sooner than you think you should.
 
+<a href="http://blog.bazaarvoice.com/2013/08/28/review-data-shows-back-to-school-research-peaked-earlier-than-expected/" target="_blank" title="Bazaarvoice Blog">Originally published on the Bazaarvoice Blog</a>
