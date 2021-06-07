@@ -8,13 +8,13 @@ disqus_shortname: 'andrewminard'
 
 author:
   name: 'Andrew Minard'
-  #email: andrew@andrewminard.com
+  #email:
   #facebook_username: 
-  spotify_username: aminard
+  spotify_username: The 4 Vesta
   github_username: aminard
   linkedin_username: andrewminard
   instagram_username: minaardvark
-  twitter_username: minaardvark
+  #twitter_username:
 
 defaults:
   -
