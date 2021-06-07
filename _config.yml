@@ -37,5 +37,5 @@ kramdown:
   # do not replace newlines by <br>s
   hard_wrap: false
 
-gems: ['jekyll-paginate', 'jekyll-seo-tag']
+plugins: ['jekyll-paginate', 'jekyll-seo-tag']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 's3_website.yml', 'deploy.sh']
